@@ -1,5 +1,9 @@
 spec_version: v1.27
 identifier: SterlingSystems-Core
+
+replaced_by:
+  name: SterlingSystemsAgency
+
 license: CC-BY-SA
 _$kref: '#/ckan/github/JadeOfMaar/SterlingSystems/asset_match/Sterling_Core_(.*).zip'
 $vref: '#/ckan/ksp-avc'
@@ -23,7 +27,7 @@ supports:
   - name: SystemHeat
   - name: Waterfall
 
-name: Stirling Systems - Core
+name: Sterling Systems - Core (pre-CKAN)
 abstract: |
   A very large KSP mod. Similar scope to Far Future Tech or KSP Interstellar 
 install:

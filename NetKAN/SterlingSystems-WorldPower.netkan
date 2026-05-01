@@ -1,5 +1,9 @@
 spec_version: v1.27
 identifier: SterlingSystems-WorldPower
+
+replaced_by:
+  name: SterlingSystemsWorldPower
+
 license: CC-BY-SA
 _$kref: '#/ckan/github/JadeOfMaar/SterlingSystems/asset_match/Sterling_WorldPower_(.*).zip'
 $vref: '#/ckan/ksp-avc'
@@ -24,7 +28,7 @@ supports:
   - name: SystemHeat
   - name: Waterfall
 
-name: Stirling Systems - World Power
+name: Sterling Systems - World Power (pre-CKAN)
 abstract: |
   A very large KSP mod. Similar scope to Far Future Tech or KSP Interstellar 
 install:

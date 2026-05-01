@@ -1,5 +1,9 @@
 spec_version: v1.27
 identifier: SterlingSystems-Tankage
+
+replaced_by:
+  name: SterlingSystemsTankage
+
 license: CC-BY-SA
 _$kref: '#/ckan/github/JadeOfMaar/SterlingSystems/asset_match/Sterling_Tankage_(.*).zip'
 $vref: '#/ckan/ksp-avc'
@@ -24,7 +28,7 @@ supports:
   - name: SystemHeat
   - name: Waterfall
 
-name: Stirling Systems - Tankage
+name: Sterling Systems - Tankage (pre-CKAN)
 abstract: |
   A very large KSP mod. Similar scope to Far Future Tech or KSP Interstellar 
 install:
