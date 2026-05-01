@@ -2,10 +2,16 @@ spec_version: v1.4
 identifier: SIMPLEXColonies
 $kref: '#/ckan/spacedock/2868'
 license: CC-BY-NC-SA
+resources:
+  homepage: https://forum.kerbalspaceprogram.com/topic/205078-1125-simplex-colonies-13/
 tags:
   - config
   - parts
   - crewed
 depends:
   - name: ModuleManager
+suggests:
   - name: MoarKerbals
+  - name: ExtraPlanetaryLaunchpads
+  - name: EVATransfer
+  - name: SIMPLEXResources
