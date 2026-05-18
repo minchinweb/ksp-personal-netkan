@@ -3,6 +3,7 @@ identifier: MEVHeavyIndustries
 $kref: "#/ckan/github/zer0Kerbal/MEVHeavyIndustries"
 license: CC-BY-NC-SA
 $vref: "#/ckan/ksp-avc"
+epoch: 1
 tags:
   - parts
   - config

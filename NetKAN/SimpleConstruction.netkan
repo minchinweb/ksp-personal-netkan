@@ -3,6 +3,7 @@ identifier: SimpleConstruction
 $kref: "#/ckan/github/zer0Kerbal/SimpleConstruction"
 license: GPL-3.0
 $vref: "#/ckan/ksp-avc/SimpleConstruction.version"
+epoch: 1
 tags:
   - parts
   - plugin

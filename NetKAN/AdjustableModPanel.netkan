@@ -3,6 +3,7 @@ identifier: AdjustableModPanel
 $kref: "#/ckan/github/zer0Kerbal/AdjustableModPanel"
 license: BSD-2-clause
 $vref: "#/ckan/ksp-avc"
+epoch: 1
 tags:
   - plugin
   - convenience
