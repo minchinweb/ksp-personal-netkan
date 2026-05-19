@@ -1,0 +1,29 @@
+spec_version: v1.18
+identifier: SinPhiHeavyIndustries
+_$kref: "#/ckan/github/Turbinia/SinPhiHeavyIndustries"
+license: CC-BY-NC-SA
+$vref: "#/ckan/ksp-avc"
+depends:
+  - name: ModuleManager
+  - name: USITools
+supports:
+  - name: CommunityTechTree
+  - name: ConnectedLivingSpace
+  - name: TACLS
+  - name: Goodspeed
+install:
+  - find: SinPhiHeavyIndustries
+    install_to: GameData
+x_netkan_github:
+  use_source_archive: true
+x_via: MinchinWeb's GitHub to NetKan
+resources:
+  repository: https://github.com/Turbinia/SinPhiHeavyIndustries
+  homepage: https://forum.kerbalspaceprogram.com/topic/162654-*
+
+name: Sin Phi Heavy Industries
+abstract: |
+   assortment of parts that I design. Current parts are a 30m Habitat, solar panel fan and RDEs (Rotating Detonation Engine).
+author: Sin Phi
+download: https://github.com/Turbinia/SinPhiHeavyIndustries/archive/refs/heads/master.zip
+
